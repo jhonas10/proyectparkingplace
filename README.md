@@ -1,6 +1,6 @@
-# parking_place_proyect
+# parkingplace
 
-Parking in La Paz
+A new Flutter application.
 
 ## Getting Started
 
